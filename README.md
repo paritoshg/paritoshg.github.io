@@ -10,7 +10,7 @@ GIS & Geospatial Architect · Agentic AI Builder · Software Engineering Leader
 </p>
 </div>
 ---
-👋 About Me
+👋 About Me </n>
 I build technology that connects geospatial intelligence, enterprise systems and AI.
 My work spans the complete technology lifecycle — from requirements, architecture and application modernization to development, cloud migration, analytics and implementation. My core domain expertise is GIS for utilities and telecommunications, with a growing focus on Agentic AI systems that can operate existing enterprise GIS workflows.
 🗺️ GIS: ArcGIS Enterprise, ArcGIS Pro, ArcGIS Server, ArcGIS JS API, ArcFM, GeoServer, QGIS, PostGIS
