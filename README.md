@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/ParitoshGupta.jpg" alt="Paritosh Gupta" width="150" height="150" style="border-radius:50%;" />
+<img src="/ParitoshGupta.jpg" alt="Paritosh Gupta" width="150" height="150" style="border-radius:50%;" />
 Paritosh Gupta
 GIS & Geospatial Architect · Agentic AI Builder · Software Engineering Leader
 25+ years building enterprise technology solutions across GIS, utilities, telecommunications, data analytics and cloud modernization.
